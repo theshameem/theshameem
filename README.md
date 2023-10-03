@@ -2,9 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with expertise in...
 
-- 👨‍💻 Front-end and back-end development
+- 👨‍💻 Front-end development
 - 🚀 Technologies I love: JavaScript, React, Angular
-- ...
 
 | Languages         | JavaScript, C/C++, C#    |
 |-------------------|--------------------------|
@@ -13,5 +12,4 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in...
 | Tools             | Git, Docker              |
 | Database          | MySQL, MongoDB           |
 
-
-Feel free to explore my repositories and reach out to me on [LinkedIn](https://www.linkedin.com/in/shameem-alam/) or [Twitter](https://twitter.com/yourusername)!
+Feel free to explore my repositories and reach out to me on [LinkedIn](https://www.linkedin.com/in/shameem-alam/) or visit my [Website](https://www.shameemalam.com/)!

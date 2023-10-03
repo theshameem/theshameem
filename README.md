@@ -6,11 +6,12 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in...
 - 🚀 Technologies I love: JavaScript, React, Angular
 - ...
 
+| Languages         | JavaScript, C/C++, C#    |
+|-------------------|--------------------------|
+| Frameworks        | Angular                  |
+| Libraries         | React.js                 |
+| Tools             | Git, Docker              |
+| Database          | MySQL, MongoDB           |
 
-Languages         JavaScript, C/C++, C#
-Frameworks        Angular
-Libraries	        React.js
-Tools	            Git, Docker
-Database	        MySQL, MongoDB
 
 Feel free to explore my repositories and reach out to me on [LinkedIn](https://www.linkedin.com/in/shameem-alam/) or [Twitter](https://twitter.com/yourusername)!

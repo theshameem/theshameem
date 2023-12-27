@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in...
 # Problem Solving Profile
 | Platform          | Total Solves | Profile Link                                      |
 |-------------------|--------------|---------------------------------------------------|
-| LeetCode          | 800          | [🔗](https://leetcode.com/theshameem/) &#x1F517;   |
+| LeetCode          | 800          | [&#x1F517;](https://leetcode.com/theshameem/)   |
 | Codeforces        | 607          | [🔗](https://codeforces.com/profile/theshameem)   |
 | UVa               | 284          | [🔗](https://uhunt.onlinejudge.org/id/905254)   |
 | LightOJ           | 80           | [🔗](https://lightoj.com/user/theshameem)   |

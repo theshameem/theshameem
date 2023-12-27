@@ -17,10 +17,10 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in...
 | Platform          | Total Solves             |
 |-------------------|--------------------------|
 | LeetCode          | 800                      |
-| HackerRank        | 180                      |
-| CodeSignal        | 120                      |
-| Codeforces        | 80                       |
-| AtCoder           | 50                       |
+| Codeforces        | 607                      |
+| UVa               | 284                      |
+| LightOJ           | 80                       |
+| Beecrowd          | 259                      |
 
 # My GitHub Stats
 

@@ -13,8 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in...
 | Tools             | Git, Docker              |
 | Database          | MySQL, MongoDB           |
 
-### Problem Solving Profile
-
+# Problem Solving Profile
 | Platform       | Total Solves |
 |----------------|--------------|
 | LeetCode       | 250          |

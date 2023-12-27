@@ -17,10 +17,10 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in...
 | Platform          | Total Solves | Profile Link                                      |
 |-------------------|--------------|---------------------------------------------------|
 | LeetCode          | 800          | [&#x1F517;](https://leetcode.com/theshameem/)   |
-| Codeforces        | 607          | [🔗](https://codeforces.com/profile/theshameem)   |
-| UVa               | 284          | [🔗](https://uhunt.onlinejudge.org/id/905254)   |
-| LightOJ           | 80           | [🔗](https://lightoj.com/user/theshameem)   |
-| Beecrowd          | 259          | [🔗](https://www.beecrowd.com.br/judge/en/profile/167329?origem=1)   |
+| Codeforces        | 607          | [&#x1F517;](https://codeforces.com/profile/theshameem)   |
+| UVa               | 284          | [&#x1F517;](https://uhunt.onlinejudge.org/id/905254)   |
+| LightOJ           | 80           | [&#x1F517;](https://lightoj.com/user/theshameem)   |
+| Beecrowd          | 259          | [&#x1F517;](https://www.beecrowd.com.br/judge/en/profile/167329?origem=1)   |
 
 
 # My GitHub Stats

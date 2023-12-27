@@ -14,13 +14,13 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in...
 | Database          | MySQL, MongoDB           |
 
 # Problem Solving Profile
-| Platform       | Total Solves |
-|----------------|--------------|
-| LeetCode       | 250          |
-| HackerRank     | 180          |
-| CodeSignal     | 120          |
-| Codeforces     | 80           |
-| AtCoder        | 50           |
+| Platform          | Total Solves             |
+|-------------------|--------------------------|
+| LeetCode          | 800                      |
+| HackerRank        | 180                      |
+| CodeSignal        | 120                      |
+| Codeforces        | 80                       |
+| AtCoder           | 50                       |
 
 # My GitHub Stats
 

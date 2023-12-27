@@ -13,6 +13,16 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in...
 | Tools             | Git, Docker              |
 | Database          | MySQL, MongoDB           |
 
+### Problem Solving Profile
+
+| Platform       | Total Solves |
+|----------------|--------------|
+| LeetCode       | 250          |
+| HackerRank     | 180          |
+| CodeSignal     | 120          |
+| Codeforces     | 80           |
+| AtCoder        | 50           |
+
 # My GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=theshameem&show_icons=true&theme=radical)

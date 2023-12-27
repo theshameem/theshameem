@@ -14,13 +14,14 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in...
 | Database          | MySQL, MongoDB           |
 
 # Problem Solving Profile
-| Platform          | Total Solves             |
-|-------------------|--------------------------|
-| LeetCode          | 800                      |
-| Codeforces        | 607                      |
-| UVa               | 284                      |
-| LightOJ           | 80                       |
-| Beecrowd          | 259                      |
+| Platform          | Total Solves | Profile Link                                      |
+|-------------------|--------------|---------------------------------------------------|
+| LeetCode          | 800          | [Profile](https://leetcode.com/theshameem/)   |
+| Codeforces        | 607          | [Profile](https://codeforces.com/profile/theshameem)   |
+| UVa               | 284          | [Profile](https://uhunt.onlinejudge.org/id/905254)   |
+| LightOJ           | 80           | [Profile](https://lightoj.com/user/theshameem)   |
+| Beecrowd          | 259          | [Profile](https://www.beecrowd.com.br/judge/en/profile/167329?origem=1)   |
+
 
 # My GitHub Stats
 

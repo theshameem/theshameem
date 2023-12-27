@@ -14,7 +14,9 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in...
 | Database          | MySQL, MongoDB           |
 
 # Problem Solving Profile
+
 I have solved more than 2000 problems across different online platforms.
+
 | Platform          | Total Solves | Profile Link                                      |
 |-------------------|--------------|---------------------------------------------------|
 | LeetCode          | 800          | [&#x1F517;](https://leetcode.com/theshameem/)   |

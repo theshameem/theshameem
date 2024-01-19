@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer with expertise in...
 
 - 👨‍💻 Front-end development
-- 🚀 Technologies I love: JavaScript, React, Angular
+- 🚀 Technologies I love: JavaScript, C#, React, Angular
 
 # Technical Skills
 | Languages         | JavaScript, C/C++, C#    |

@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in...
 # Technical Skills
 | Languages         | JavaScript, C/C++, C#    |
 |-------------------|--------------------------|
-| Frameworks        | Angular, Bootstrap       |
+| Frameworks        | Angular, .NET CORE, Bootstrap       |
 | Libraries         | React.js                 |
 | Tools             | Git, Docker              |
 | Database          | MySQL, MongoDB           |

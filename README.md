@@ -19,7 +19,7 @@ I have solved more than 2000 problems across different online platforms.
 
 | Platform          | Total Solves | Profile Link                                      |
 |-------------------|--------------|---------------------------------------------------|
-| LeetCode          | 863          | [&#x1F517;](https://leetcode.com/theshameem/)   |
+| LeetCode          | 864          | [&#x1F517;](https://leetcode.com/theshameem/)   |
 | Codeforces        | 608          | [&#x1F517;](https://codeforces.com/profile/theshameem)   |
 | UVa               | 284          | [&#x1F517;](https://uhunt.onlinejudge.org/id/905254)   |
 | LightOJ           | 80           | [&#x1F517;](https://lightoj.com/user/theshameem)   |

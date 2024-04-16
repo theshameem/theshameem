@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in...
 | Languages         | JavaScript, C/C++, C#    |
 |-------------------|--------------------------|
 | Frameworks        | Angular, .NET CORE, Bootstrap       |
-| Libraries         | React.js                 |
+| Libraries         | React.js, RxJs                 |
 | Tools             | Git, Docker              |
 | Database          | MySQL, MongoDB           |
 

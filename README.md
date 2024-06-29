@@ -27,9 +27,9 @@ I have solved more than 2000 problems across different online platforms.
 
 
 # My GitHub Stats
-#![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=theshameem&show_icons=true&theme=radical)
-#![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshameem&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theshameem&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=theshameem&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshameem&layout=compact)
 
 
 Feel free to explore my repositories and reach out to me on [LinkedIn](https://www.linkedin.com/in/shameem-alam/) or visit my [Website](https://www.shameemalam.com/)!

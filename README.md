@@ -32,14 +32,13 @@ I have solved more than 2000 problems across different online platforms.
 
 <!-- Second Row: GitHub Stats and Top Languages Sections -->
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="flex: 0 0 48%;">
-    ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=theshameem&show_icons=true&theme=tokyonight)
+  <div style="flex: 1; min-width: 48%; max-width: 48%; box-sizing: border-box; padding: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=theshameem&show_icons=true&theme=tokyonight" style="width: 100%;">
   </div>
-  <div style="flex: 0 0 48%;">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshameem&layout=compact&theme=tokyonight)
+  <div style="flex: 1; min-width: 48%; max-width: 48%; box-sizing: border-box; padding: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshameem&layout=compact&theme=tokyonight" style="width: 100%;">
   </div>
 </div>
-
 
 
 Feel free to explore my repositories and reach out to me on [LinkedIn](https://www.linkedin.com/in/shameem-alam/) or visit my [Website](https://www.shameemalam.com/)!

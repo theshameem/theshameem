@@ -27,8 +27,6 @@ I have solved more than 2000 problems across different online platforms.
 
 
 # My GitHub Stats
-## GitHub Stats
-
 <!-- First Row: Streak Section -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theshameem&theme=dark)
 

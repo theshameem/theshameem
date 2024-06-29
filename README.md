@@ -28,7 +28,7 @@ I have solved more than 2000 problems across different online platforms.
 
 # My GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theshameem&theme=dark)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=theshameem&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=theshameem&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshameem&layout=compact)
 
 

@@ -27,18 +27,9 @@ I have solved more than 2000 problems across different online platforms.
 
 
 # My GitHub Stats
-<!-- First Row: Streak Section -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theshameem&theme=dark)
-
-<!-- Second Row: GitHub Stats and Top Languages Sections -->
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="flex: 1; min-width: 48%; max-width: 48%; box-sizing: border-box; padding: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=theshameem&show_icons=true&theme=tokyonight" style="width: 100%;">
-  </div>
-  <div style="flex: 1; min-width: 48%; max-width: 48%; box-sizing: border-box; padding: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshameem&layout=compact&theme=tokyonight" style="width: 100%;">
-  </div>
-</div>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=theshameem&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshameem&layout=compact)
 
 
 Feel free to explore my repositories and reach out to me on [LinkedIn](https://www.linkedin.com/in/shameem-alam/) or visit my [Website](https://www.shameemalam.com/)!

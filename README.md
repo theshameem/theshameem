@@ -65,7 +65,7 @@ I enjoy designing clean architectures, solving complex programming problems, and
 # 🌐 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shameem-alam/">
+<a href="https://www.linkedin.com/in/theshameem/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 

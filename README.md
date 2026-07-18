@@ -1,7 +1,7 @@
 <!-- ========================= Banner ========================= -->
 
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Shameem Alam Banner" width="100%" />
+  <img src="assets/banner.png" alt="Shameem Alam Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Shameem Alam</h1>
